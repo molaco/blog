@@ -1,0 +1,11 @@
+[submodule "molacoblog/themes/hugo-theme-stack"]
+	path = molacoblog/themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
+[submodule "molacoblog/molaco.github.io"]
+	path = molacoblog/molaco.github.io
+	url = https://github.com/molaco/molaco.github.io.git
+	branch = main
+[submodule "molacoblog/public"]
+	path = molacoblog/public
+	url = https://github.com/molaco/molaco.github.io.git
+	branch = main
