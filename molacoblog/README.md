@@ -1,9 +1,12 @@
 ### Workflow
 
-1. Generate static files (under /blog)
+1. Create new post
+  ``` hugo new post/NEW_POST_NAME/index.md```
+
+2. Generate static files (under /blog)
   ``` hugo -t hugo-theme-stack ```
 
-2. Commit changes (under /blog/public)
+3. Commit changes (under /blog/public)
   ``` 
   git status
   git add .
